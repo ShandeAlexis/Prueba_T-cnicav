@@ -1,4 +1,5 @@
 https://www.shoponline.com/product1.html
+https://www.shoponline.com/product1.html
 https://www.example.com/about.php
 https://www.shopworld.com/category2.html
 https://www.shopnow.com/item3.php
