@@ -23,7 +23,7 @@ cd PARTE1_CRUD_LARAVEL
 ## 2.  Instalación de Dependencias
 Instala las dependencias del proyecto utilizando Composer:
 ```bash
-`composer install`
+composer install
 ```
 ## 3.  Configuración de la Base de Datos y .env
 
