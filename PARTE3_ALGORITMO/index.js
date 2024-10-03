@@ -26,7 +26,7 @@ const filtrarUrls = (palabraClave) => {
     if(urlsFiltradas<1){
         console.log('No hay urls con ese dominio :v')
     }else{
-        console.log(`La cantidad de Uuls son: ${urls.length} `);
+        console.log(`La cantidad de Urls son: ${urls.length} `);
         console.log(`Urls que cumples los requisitos son: ${urlsFiltradas.length}`, urlsFiltradas);
     }
   });
